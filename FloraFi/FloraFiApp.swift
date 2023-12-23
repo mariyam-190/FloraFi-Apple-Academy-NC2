@@ -11,8 +11,8 @@ import SwiftUI
 struct FloraFiApp: App {
     var body: some Scene {
         WindowGroup {
-           // ContentView()
-            AreaPage()
+            SplashScreen()
+           //CamView()
         }
     }
 }

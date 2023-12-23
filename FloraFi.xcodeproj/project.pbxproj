@@ -8,31 +8,51 @@
 
 /* Begin PBXBuildFile section */
 		1E585BC42B3227BE0085C971 /* FloraFiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BC32B3227BE0085C971 /* FloraFiApp.swift */; };
-		1E585BC62B3227BE0085C971 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BC52B3227BE0085C971 /* ContentView.swift */; };
+		1E585BC62B3227BE0085C971 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BC52B3227BE0085C971 /* SplashScreen.swift */; };
 		1E585BC82B3227C00085C971 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E585BC72B3227C00085C971 /* Assets.xcassets */; };
 		1E585BCB2B3227C00085C971 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E585BCA2B3227C00085C971 /* Preview Assets.xcassets */; };
-		1E585BD22B32287D0085C971 /* AreaPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD12B32287D0085C971 /* AreaPage.swift */; };
-		1E585BD42B32288D0085C971 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD32B32288D0085C971 /* HomePage.swift */; };
-		1E585BD62B32289E0085C971 /* SubHomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD52B32289E0085C971 /* SubHomePage.swift */; };
+		1E585BD22B32287D0085C971 /* SeasonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD12B32287D0085C971 /* SeasonsView.swift */; };
+		1E585BD42B32288D0085C971 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD32B32288D0085C971 /* HomeView.swift */; };
 		1E585BD82B322CB30085C971 /* tabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD72B322CB30085C971 /* tabView.swift */; };
-		1E585BDA2B322E920085C971 /* PlantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD92B322E920085C971 /* PlantView.swift */; };
 		1E585BDC2B32C44E0085C971 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1E585BDB2B32C44E0085C971 /* Localizable.xcstrings */; };
-		D09732AC2B37558300A816F6 /* endpage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09732AB2B37558300A816F6 /* endpage.swift */; };
+		1E585BFC2B3810FB0085C971 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BFB2B3810FB0085C971 /* Color.swift */; };
+		1E585C012B38171B0085C971 /* SeasonsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C002B38171B0085C971 /* SeasonsModel.swift */; };
+		1E585C032B381BC60085C971 /* SeasonsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C022B381BC60085C971 /* SeasonsViewModel.swift */; };
+		1E585C072B38C19E0085C971 /* PlantViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C062B38C19E0085C971 /* PlantViewModel.swift */; };
+		1E585C092B38C1B10085C971 /* PlantModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C082B38C1B10085C971 /* PlantModel.swift */; };
+		D0A9598F2B7F718100305100 /* CamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A9598E2B7F718100305100 /* CamView.swift */; };
+		D0A959912B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D0A959902B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel */; };
+		D0A959932B7F82B500305100 /* plant2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959922B7F82B500305100 /* plant2.swift */; };
+		D0A959952B7F88BB00305100 /* plant3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959942B7F88BB00305100 /* plant3.swift */; };
+		D0A959972B7F8B0500305100 /* plant4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959962B7F8B0500305100 /* plant4.swift */; };
+		D0A959992B7F8CB700305100 /* plant5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959982B7F8CB600305100 /* plant5.swift */; };
+		D0A9599B2B7F8E5A00305100 /* plant6.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A9599A2B7F8E5A00305100 /* plant6.swift */; };
+		EAA12A3E2B5C77C10066D911 /* plantDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA12A3D2B5C77C10066D911 /* plantDView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1E585BC02B3227BE0085C971 /* FloraFi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FloraFi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E585BC32B3227BE0085C971 /* FloraFiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloraFiApp.swift; sourceTree = "<group>"; };
-		1E585BC52B3227BE0085C971 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1E585BC52B3227BE0085C971 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		1E585BC72B3227C00085C971 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E585BCA2B3227C00085C971 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		1E585BD12B32287D0085C971 /* AreaPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AreaPage.swift; sourceTree = "<group>"; };
-		1E585BD32B32288D0085C971 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
-		1E585BD52B32289E0085C971 /* SubHomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubHomePage.swift; sourceTree = "<group>"; };
+		1E585BD12B32287D0085C971 /* SeasonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonsView.swift; sourceTree = "<group>"; };
+		1E585BD32B32288D0085C971 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		1E585BD72B322CB30085C971 /* tabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabView.swift; sourceTree = "<group>"; };
-		1E585BD92B322E920085C971 /* PlantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantView.swift; sourceTree = "<group>"; };
 		1E585BDB2B32C44E0085C971 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
-		D09732AB2B37558300A816F6 /* endpage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = endpage.swift; sourceTree = "<group>"; };
+		1E585BFB2B3810FB0085C971 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		1E585C002B38171B0085C971 /* SeasonsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonsModel.swift; sourceTree = "<group>"; };
+		1E585C022B381BC60085C971 /* SeasonsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonsViewModel.swift; sourceTree = "<group>"; };
+		1E585C062B38C19E0085C971 /* PlantViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantViewModel.swift; sourceTree = "<group>"; };
+		1E585C082B38C1B10085C971 /* PlantModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantModel.swift; sourceTree = "<group>"; };
+		D0A9598E2B7F718100305100 /* CamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamView.swift; sourceTree = "<group>"; };
+		D0A959902B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "MyImageClassifier plan 1.mlmodel"; path = "../../../Documents/MyImageClassifier plan 1.mlmodel"; sourceTree = "<group>"; };
+		D0A959922B7F82B500305100 /* plant2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant2.swift; sourceTree = "<group>"; };
+		D0A959942B7F88BB00305100 /* plant3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant3.swift; sourceTree = "<group>"; };
+		D0A959962B7F8B0500305100 /* plant4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant4.swift; sourceTree = "<group>"; };
+		D0A959982B7F8CB600305100 /* plant5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant5.swift; sourceTree = "<group>"; };
+		D0A9599A2B7F8E5A00305100 /* plant6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant6.swift; sourceTree = "<group>"; };
+		EAA12A3D2B5C77C10066D911 /* plantDView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plantDView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,14 +85,14 @@
 		1E585BC22B3227BE0085C971 /* FloraFi */ = {
 			isa = PBXGroup;
 			children = (
+				D0A959902B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel */,
+				1E585BFF2B3816FC0085C971 /* View */,
+				1E585BFE2B3816F40085C971 /* ViewModel */,
+				1E585BFD2B3816ED0085C971 /* Model */,
 				1E585BC32B3227BE0085C971 /* FloraFiApp.swift */,
-				1E585BC52B3227BE0085C971 /* ContentView.swift */,
-				1E585BD12B32287D0085C971 /* AreaPage.swift */,
-				1E585BD32B32288D0085C971 /* HomePage.swift */,
-				1E585BD52B32289E0085C971 /* SubHomePage.swift */,
-				1E585BD92B322E920085C971 /* PlantView.swift */,
+				1E585BC52B3227BE0085C971 /* SplashScreen.swift */,
 				1E585BD72B322CB30085C971 /* tabView.swift */,
-				D09732AB2B37558300A816F6 /* endpage.swift */,
+				1E585BFB2B3810FB0085C971 /* Color.swift */,
 				1E585BC72B3227C00085C971 /* Assets.xcassets */,
 				1E585BC92B3227C00085C971 /* Preview Content */,
 				1E585BDB2B32C44E0085C971 /* Localizable.xcstrings */,
@@ -86,6 +106,40 @@
 				1E585BCA2B3227C00085C971 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1E585BFD2B3816ED0085C971 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				1E585C002B38171B0085C971 /* SeasonsModel.swift */,
+				1E585C082B38C1B10085C971 /* PlantModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1E585BFE2B3816F40085C971 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				1E585C022B381BC60085C971 /* SeasonsViewModel.swift */,
+				1E585C062B38C19E0085C971 /* PlantViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		1E585BFF2B3816FC0085C971 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				1E585BD12B32287D0085C971 /* SeasonsView.swift */,
+				1E585BD32B32288D0085C971 /* HomeView.swift */,
+				EAA12A3D2B5C77C10066D911 /* plantDView.swift */,
+				D0A959922B7F82B500305100 /* plant2.swift */,
+				D0A959942B7F88BB00305100 /* plant3.swift */,
+				D0A959962B7F8B0500305100 /* plant4.swift */,
+				D0A959982B7F8CB600305100 /* plant5.swift */,
+				D0A9599A2B7F8E5A00305100 /* plant6.swift */,
+				D0A9598E2B7F718100305100 /* CamView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -160,14 +214,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1E585BC62B3227BE0085C971 /* ContentView.swift in Sources */,
-				1E585BD22B32287D0085C971 /* AreaPage.swift in Sources */,
-				1E585BDA2B322E920085C971 /* PlantView.swift in Sources */,
+				D0A959932B7F82B500305100 /* plant2.swift in Sources */,
+				1E585BC62B3227BE0085C971 /* SplashScreen.swift in Sources */,
+				EAA12A3E2B5C77C10066D911 /* plantDView.swift in Sources */,
+				D0A959992B7F8CB700305100 /* plant5.swift in Sources */,
+				1E585BD22B32287D0085C971 /* SeasonsView.swift in Sources */,
+				1E585C032B381BC60085C971 /* SeasonsViewModel.swift in Sources */,
+				D0A9599B2B7F8E5A00305100 /* plant6.swift in Sources */,
+				D0A9598F2B7F718100305100 /* CamView.swift in Sources */,
+				D0A959952B7F88BB00305100 /* plant3.swift in Sources */,
+				D0A959912B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel in Sources */,
+				1E585C012B38171B0085C971 /* SeasonsModel.swift in Sources */,
+				1E585BFC2B3810FB0085C971 /* Color.swift in Sources */,
+				D0A959972B7F8B0500305100 /* plant4.swift in Sources */,
+				1E585C092B38C1B10085C971 /* PlantModel.swift in Sources */,
 				1E585BC42B3227BE0085C971 /* FloraFiApp.swift in Sources */,
-				D09732AC2B37558300A816F6 /* endpage.swift in Sources */,
-				1E585BD42B32288D0085C971 /* HomePage.swift in Sources */,
+				1E585BD42B32288D0085C971 /* HomeView.swift in Sources */,
+				1E585C072B38C19E0085C971 /* PlantViewModel.swift in Sources */,
 				1E585BD82B322CB30085C971 /* tabView.swift in Sources */,
-				1E585BD62B32289E0085C971 /* SubHomePage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +367,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FloraFi/Preview Content\"";
+				DEVELOPMENT_TEAM = D52286Z8X4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -331,6 +396,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FloraFi/Preview Content\"";
+				DEVELOPMENT_TEAM = D52286Z8X4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

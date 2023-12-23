@@ -1,66 +1,219 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    " التسميد" : {
+
+    },
+    " السقي" : {
+
+    },
+    " بعد نموها لمدة تتراوح بين 3 إلى 4 أسابيع" : {
+
+    },
+    " سماد عضوي مثل سماد البقر أو السماد المتحلل" : {
+
+    },
+    " ضوء الشمس المعتدل لمدة 6-8 ساعات يوميًا" : {
+
+    },
+    " ضوء الشمس المعتدل لمدة 6-8 ساعات يوميًا. " : {
+
+    },
+    " يعتبر الطماطم من النباتات الموسمية ، التي يتم زراعتها في فصل الشتاء او في الاجواء المعتدلة ، ويتم الحصاد بعد ٦٠ يوم من زرع البذور والتسميد والتقليم" : {
+
+    },
+    " يعتبر الطماطم من النباتات الموسمية ، التي يتم زراعتها في فصل الشتاء او في الاجواء المعتدلة ، ويتم الحصاد بعد ٦٠ يوم من زرع البذور والتسميد والتقليم      " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : " يعتبر الطماطم من النباتات الموسمية ، التي يتم زراعتها في فصل الشتاء او في الاجواء المعتدلة ، ويتم الحصاد بعد ٦٠ يوم من زرع البذور والتسميد والتقليم      "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomatoes are considered a seasonal plant, grown in the winter or in temperate climates, and are harvested 60 days after planting the seeds, fertilizing and pruning."
+          }
+        }
+      }
+    },
+    " يمكن زراعة الكثير من النباتات في فصل الشتاء (أكتوبر الى ابريل)، ومعظم النباتات تكون موسميّة ، تموت بعد انتهاء الموسم .   " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "يمكن زراعة الكثير من النباتات في فصل الشتاء (أكتوبر الى ابريل)، ومعظم النباتات تكون موسميّة ، تموت بعد انتهاء الموسم .   "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Many plants can be grown in the winter (October to full), and the plants are seasonal, dying after the season ends."
+          }
+        }
+      }
+    },
     "Choose Area" : {
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "اختر منطقتك"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اختر منطقتك"
+            "value" : "Choose Area"
           }
         }
       }
     },
-    "FloraFi" : {
-
-    },
-    "Hello, World!" : {
+    "Classification: %@" : {
 
     },
     "Home" : {
+      "extractionState" : "stale",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "الرئيسية"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الرئيسية"
+            "value" : "Home"
           }
         }
       }
     },
-    "OrderPage" : {
-
-    },
-    "Pick a language" : {
-
-    },
     "Search" : {
+      "extractionState" : "stale",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "بحث"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "بحث"
+            "value" : "Search"
           }
         }
       }
     },
     "Settings" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "الاعدادات "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "أواخر شهر مارس وأوائل شهر أبريل، " : {
+
+    },
+    "إختر النبات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إختر النبات"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Plants"
+          }
+        }
+      }
+    },
+    "إضافة السماد عالي الفسفور إلى الشتلة مرة واحدة خلال شهر من زراعتها" : {
+
+    },
+    "ابحث عن" : {
+
+    },
+    "اختر الفصل" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر الفصل "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Season"
+          }
+        }
+      }
+    },
+    "اختر الفصل " : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر الفصل "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Season"
+          }
+        }
+      }
+    },
+    "اختر الموسم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "اختر الموسم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Season"
+          }
+        }
+      }
+    },
+    "اختر الموسم " : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الاعدادات "
+            "value" : "Choose Season"
           }
         }
       }
     },
     "اختر منطقتك" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -70,18 +223,14 @@
         }
       }
     },
-    "الطماطم" : {
+    "اقرأ المزيد" : {
       "localizations" : {
-        "en" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tomato"
+            "state" : "needs_review",
+            "value" : "اقرأ المزيد"
           }
-        }
-      }
-    },
-    "لمعرفة المزيد" : {
-      "localizations" : {
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -90,12 +239,790 @@
         }
       }
     },
-    "موسمي " : {
+    "التزهير" : {
+
+    },
+    "التسميد" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "التسميد"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fertilization"
+          }
+        }
+      }
+    },
+    "التقليم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "التقليم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pruning"
+          }
+        }
+      }
+    },
+    "التنبيهات" : {
+
+    },
+    "الحصاد" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "الحصاد"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harvest"
+          }
+        }
+      }
+    },
+    "السقي" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "السقي"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watering"
+          }
+        }
+      }
+    },
+    "الشتاء" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الشتاء"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Winter"
+          }
+        }
+      }
+    },
+    "الصيف" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "الصيف"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summer"
+          }
+        }
+      }
+    },
+    "الصيف " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الصيف"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summer"
+          }
+        }
+      }
+    },
+    "الطماطم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الطماطم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomato"
+          }
+        }
+      }
+    },
+    "الكاميرا" : {
+
+    },
+    "الكزبره" : {
+
+    },
+    "المزيد" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المزيد"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "المفضلة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المفضلة"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorite"
+          }
+        }
+      }
+    },
+    "المواسم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المواسم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seasons"
+          }
+        }
+      }
+    },
+    "النباتات" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النباتات"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plants"
+          }
+        }
+      }
+    },
+    "بانتظام بمعدل كل 4-6 أسابيع للمحافظة على شكل النبات" : {
+
+    },
+    "بانتظام، تظل التربة رطبة في جميع الأوقات" : {
+
+    },
+    "بذرة الست" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بذرة الست"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buthrat Alst "
+          }
+        }
+      }
+    },
+    "بعد نموها لمدة تتراوح بين 3 إلى 4 أسابيع" : {
+
+    },
+    "تحصد الثمرة بعد ٦٠ يوم بعدالبذور" : {
+
+    },
+    "تحصد الثمرة بعد ٦٠ يوم من وضع البذور" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحصد الثمرة بعد ٦٠ يوم من وضع البذور"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The fruit is harvested 60 days after sowing the seeds"
+          }
+        }
+      }
+    },
+    "تُزرع الشجرة طوال السنة، لكن يفضل في  الخريف وبداية الربيع" : {
+
+    },
+    "تُسمّى الونكة وهي نبتة معمرة خلابة. تُنتج أوراقًا كثيفة، جذّابة ومغطّاة بأزهار غزيرة تتفتّح خلال فصل الصيف وتشبه الفلوكس الصيفيّ. تتحمل الجفاف والحرارة الشديدة ، فمن السهل العناية به" : {
+
+    },
+    "تقليم الأوراق المريضة الذابلة مرة واحدة في الشهر." : {
+
+    },
+    "تقليم الشتلة مراراً، وذلك بإزالة الزهور الميتة كل فترة" : {
+
+    },
+    "درجة الحرارة" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "درجة الحرارة"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temperature"
+          }
+        }
+      }
+    },
+    "ريحان" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "ريحان"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "basil"
+          }
+        }
+      }
+    },
+    "زراعة الطماطم" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زراعه الطماطم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomato cultivation"
+          }
+        }
+      }
+    },
+    "زراعة الكزبرة هي عملية بسيطة ويمكن إجراؤها في الحدائق المنزلية أو الأواني تحتاج الى أشعة شمس معتدلة يُفضل زراعة النعناع في تربة غنية بالمواد العضوية وجيدة التصريف" : {
+
+    },
+    "زراعه الطماطم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زراعه الطماطم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomato cultivation"
+          }
+        }
+      }
+    },
+    "زهور البتونيا" : {
+
+    },
+    "زهور البفته البيضاء" : {
+
+    },
+    "سماد NPK متوازن وينبغي تسميدها مرة واحدة كحد أدنى شهريًا" : {
+
+    },
+    "سماد عضوي مثل سماد البقر أو السماد المتحلل " : {
+
+    },
+    "شجرة اكاسيا جلوكا من الاشجار المزهره الازهار ذات لون اصفر لامع جدا. الاوراق مركبه خضراء اللون. غالبا ما يتم الازهار علي مدار السنه و لكن يكون بشكل اقوي في فصول الربيع و الصيف و الخريف. تنجذب الفراشات بشكل قوي جدا لهذه الشجره كما انها ايضا تضع بيضها علي الشجره" : {
+
+    },
+    "ضوء الشمس  لمدة 6-8 ساعات يوميًا." : {
+
+    },
+    "ضوء الشمس المعتدل لمدة 6-8 ساعات يوميًا." : {
+
+    },
+    "طماطم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "طماطم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomato"
+          }
+        }
+      }
+    },
+    "طوال العام" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طوال العام"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All year round"
+          }
+        }
+      }
+    },
+    "ظلف الماعز" : {
+
+    },
+    "قم بالتقاط صورة للنبتة                                           التي تود التعرف على اسمها" : {
+
+    },
+    "كاسيا جلوكا" : {
+
+    },
+    "كل أسبوعين خلال موسم النمو الصيفي" : {
+
+    },
+    "للحصول على التنبهات   " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "للحصول على التنبهات   "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To get notifications"
+          }
+        }
+      }
+    },
+    "للحصول على التنبيهات" : {
+
+    },
+    "للمزيد من المعلومات" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "لمزيد من المعلومات"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To More Information"
+          }
+        }
+      }
+    },
+    "لمزيد من المعلومات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "لمزيد من المعلومات"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To More Information"
+          }
+        }
+      }
+    },
+    "لمعرفة المزيد" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لمعرفة المزيد"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Read More"
+          }
+        }
+      }
+    },
+    "متوسطة طوال اليوم" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "متوسطة طوال اليوم"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium throughout the day"
+          }
+        }
+      }
+    },
+    "مره كل إسبوعين مختلف الأسمدة" : {
+
+    },
+    "مره كل إسبوعين مختلف انواع الاسمدة" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "مره كل إسبوعين مختلف انواع الاسمدة"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Once every two weeks, with different types of fertilizers"
+          }
+        }
+      }
+    },
+    "مره كل شهرين ويختلف من نوع " : {
+
+    },
+    "مره واحده يوميا" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "مره واحده يوميا"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Once daily"
+          }
+        }
+      }
+    },
+    "مره واحده يوميا /  حسب الاحتياج" : {
+
+    },
+    "مره واحده يومياحسب الاحتياج" : {
+
+    },
+    "من أسبوعين إلى ثلاثة أسابيع، ستبدأ النباتات بالظهور" : {
+
+    },
+    "من شهر اكتوبر الى شهر ابريل" : {
+
+    },
+    "من شهر اكتوبر الى شهر ابريل " : {
+
+    },
+    "من منتصف شهر فبراير الى منتصف شهر ابريل" : {
+
+    },
+    "موسم الشتاء" : {
+
+    },
+    "موسمي" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "موسمي"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "seasonal"
+          }
+        }
+      }
+    },
+    "موسمي " : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موسمي"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "seasonal"
+          }
+        }
+      }
+    },
+    "ن سبتمبر الى ابريل" : {
+
+    },
+    "نبات مداد وسريع النمو وتظهر من العقد المنتشرة على الساق جذور تساهم في تثبيته ومن هنا تأتي أهميته كنبات مثبت للتربة من الانجراف يتحمل درجات الحرارة العالية " : {
+
+    },
+    "نعناع" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "نعناع"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mint"
+          }
+        }
+      }
+    },
+    "هذا الموسم عبارة عن ست أيام يمكن زراعة كافة انواع النباتات وهي  من ٧-١٢ من شهر فبراير فى كل عام." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا الموسم عبارة عن ست أيام يمكن زراعة كافة انواع النباتات وهي  من ٧-١٢ من شهر فبراير فى كل عام."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This season consists of six days in which all types of plants can be planted, and it is from the 7th to the 12th of February every year."
+          }
+        }
+      }
+    },
+    "وقت الزراعة" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "وقت الزراعة"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planting time"
+          }
+        }
+      }
+    },
+    "يبدأ من شهر اكتوبر الى شهر أبريل" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يبدأ من شهر اكتوبر الى شهر أبريل"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "start from October to April"
+          }
+        }
+      }
+    },
+    "يحتاج إلى ري منتظم ليبقى الجذور رطبة. " : {
+
+    },
+    "يحتاج الكزبرة إلى ري منتظم ليبقى الجذور رطبة." : {
+
+    },
+    "يحتاج الكزبرة إلى ري منتظم ليبقى الجذور رطبة. " : {
+
+    },
+    "يحتاج النبتة إلى ري منتظم لتبقى الجذور رطبة." : {
+
+    },
+    "يعتبر الطماطم من النباتات الموسمية ، التي يتم زراعتها في فصل الشتاء او في الاجواء المعتدلة ، ويتم الحصاد بعد ٤٥-٧٠ يوم من زرع البذوروالتسميد والتقليم      " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يعتبر الطماطم من النباتات الموسمية ، التي يتم زراعتها في فصل الشتاء او في الاجواء المعتدلة ، ويتم الحصاد بعد ٤٥-٧٠ يوم من زرع البذوروالتسميد والتقليم      "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomatoes are considered a seasonal plant, grown in the winter or in temperate climates, and are harvested 45-70 days after planting the seeds, fertilizing and pruning."
+          }
+        }
+      }
+    },
+    "يعتبر نبات البيتونيا من النباتات الجميلة ذات الأزهار الرائعة متعددة الألوان، ولذلك يرغب الكثير من الأشخاص بزراعتها" : {
+
+    },
+    "يفضل أن تكون متوسطة طوال اليوم" : {
+
+    },
+    "يمكن زراعة الكثير من الفواكة والخضروات والزهور في أشهر الصيف ( من شهر يونيو الى اغسطس)، والتي تتحمل درجة الحرارة العالية ، ولكن ينصح بغرس الشتلات في موسم الشتاء او بذرة الست" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "يمكن زراعة الكثير من الفواكة والخضروات والزهور في أشهر الصيف ( من شهر يونيو الى اغسطس)، والتي تتحمل درجة الحرارة العالية ، ولكن ينصح بغرس الشتلات في موسم الشتاء او بذرة الست"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Many fruits, vegetables and flowers can be grown in the summer months (from June to August), which tolerate high temperatures, but it is recommended to plant seedlings or seeds in the winter season."
+          }
+        }
+      }
+    },
+    "يمكن زراعة الكثير من الفواكة والخضروات والزهور في أشهر الصيف ( من شهر يونيو الى اغسطس)، والتي تتحمل درجة الحرارة العالية ، ولكن ينصح بغرس الشتلات في موسم الشتاء او بذرة الست  ، " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يمكن زراعة الكثير من الفواكة والخضروات والزهور في أشهر الصيف ( من شهر يونيو الى اغسطس)، والتي تتحمل درجة الحرارة العالية ، ولكن ينصح بغرس الشتلات في موسم الشتاء او بذرة الست  ، "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Many fruits, vegetables and flowers can be grown in the summer months (from June to August), which tolerate high temperatures, but it is recommended to plant seedlings or seeds in the winter season."
+          }
+        }
+      }
+    },
+    "يمكن زراعة الكثير من الفواكة والخضروات والزهور في فصل الشتاء ( من شهر أكتوبر الى ابريل)، ومعظم النباتات تكون موسميّة ، تموت بعد انتهاء الموسم" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Many fruits, vegetables and flowers can be grown in the winter (from October to April), and most plants are seasonal and die after the season ends."
+          }
+        }
+      }
+    },
+    "يمكن زراعة الكثير من الفواكة والخضروات والزهور في فصل الشتاء ( من شهر أكتوبر الى ابريل)، ومعظم النباتات تكون موسميّة ، تموت بعد انتهاء الموسم    " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يمكن زراعة الكثير من الفواكة والخضروات والزهور في فصل الشتاء ( من شهر أكتوبر الى ابريل)، ومعظم النباتات تكون موسميّة ، تموت بعد انتهاء الموسم    "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Many fruits, vegetables and flowers can be grown in the winter (from October to April), and most plants are seasonal and die after the season ends."
+          }
+        }
+      }
+    },
+    "يمكن زراعة الكثير من النباتات في فصل الشتاء (أكتوبر الى ابريل)، ومعظم النباتات تكون موسميّة ، تموت بعد انتهاء الموسم." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "يمكن زراعة الكثير من النباتات في فصل الشتاء (أكتوبر الى ابريل)، ومعظم النباتات تكون موسميّة ، تموت بعد انتهاء الموسم."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Many plants can be grown in the winter (October to April), and most plants are seasonal and die after the season ends."
+          }
+        }
+      }
+    },
+    "يمكن زراعتها طوال العام وتتحمل مختلف درجات الحرارة ،  " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يمكن زراعتها طوال العام وتتحمل مختلف درجات الحرارة ،  "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It can be grown throughout the year and tolerates various temperatures."
+          }
+        }
+      }
+    },
+    "يمكن زراعتها طوال العام وتتحمل مختلف درجات الحرارة ،  باختلاف المواسم والاجواء بحيث انها تزهر وتثمر حسب دورة حياتها ." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It can be grown throughout the year and it tolerates various temperatures, depending on seasons and climates, so that it blooms and bears fruit according to its life cycle."
           }
         }
       }
