@@ -35,11 +35,11 @@ struct plantDView: View {
                             .resizable()
                             .scaledToFit()
                             .frame(width: 19, height: 19)
-                            .foregroundColor(Color(hex: "446127"))
+                            .foregroundColor(Color.C1)
                         VStack(alignment:.leading){
                             Text("وقت الزراعة")
                                 .font(.body)
-                                .foregroundColor(Color(hex: "446127"))
+                                .foregroundColor(Color.C1)
 
                                 .accessibilityLabel("وقت الزراعة")
                             Text("يبدأ من شهر اكتوبر الى شهر أبريل")
@@ -54,11 +54,11 @@ struct plantDView: View {
                             .resizable()
                             .scaledToFit()
                             .frame(width: 19, height: 19)
-                            .foregroundColor(Color(hex: "446127"))
+                            .foregroundColor(Color.C1)
                         VStack(alignment:.leading){
                             Text("التسميد")
                                 .font(.body)
-                                .foregroundColor(Color(hex: "446127"))
+                                .foregroundColor(Color.C1)
 
                                 .accessibilityLabel(" التسميد")
                             Text("مره كل إسبوعين مختلف الأسمدة")
@@ -75,11 +75,11 @@ struct plantDView: View {
                             .resizable()
                             .scaledToFit()
                             .frame(width: 19, height: 19)
-                            .foregroundColor(Color(hex: "446127"))
+                            .foregroundColor(Color.C1)
                         VStack(alignment:.leading){
                             Text("السقي")
                                 .font(.body)
-                                .foregroundColor(Color(hex: "446127"))
+                                .foregroundColor(Color.C1)
 
                                 .accessibilityLabel(" السقي")
                             Text("مره واحده يوميا /  حسب الاحتياج")
@@ -95,11 +95,11 @@ struct plantDView: View {
                             .resizable()
                             .scaledToFit()
                             .frame(width: 24, height: 24)
-                            .foregroundColor(Color(hex: "446127"))
+                            .foregroundColor(Color.C1)
                         VStack(alignment:.leading){
                             Text("درجة الحرارة")
                                 .font(.body)
-                                .foregroundColor(Color(hex: "446127"))
+                                .foregroundColor(Color.C1)
 
                                 .accessibilityLabel("درجة الحرارة")
                             Text("يفضل أن تكون متوسطة طوال اليوم")
@@ -114,11 +114,11 @@ struct plantDView: View {
                             .resizable()
                             .scaledToFit()
                             .frame(width: 22, height: 22)
-                            .foregroundColor(Color(hex: "446127"))
+                            .foregroundColor(Color.C1)
                         VStack(alignment:.leading){
                             Text("التقليم")
                                 .font(.body)
-                                .foregroundColor(Color(hex: "446127"))
+                                .foregroundColor(Color.C1)
 
                                 .accessibilityLabel("التقليم")
                             Text("مره كل شهرين ويختلف من نوع ")
@@ -134,11 +134,11 @@ struct plantDView: View {
                             .resizable()
                             .scaledToFit()
                             .frame(width: 22, height: 22)
-                            .foregroundColor(Color(hex: "446127"))
+                            .foregroundColor(Color.C1)
                         VStack(alignment:.leading){
                             Text("الحصاد")
                                 .font(.body)
-                                .foregroundColor(Color(hex: "446127"))
+                                .foregroundColor(Color.C1)
                                 .accessibilityLabel("الحصاد")
                             Text("تحصد الثمرة بعد ٦٠ يوم بعدالبذور")
                                 .font(.subheadline)
@@ -153,18 +153,6 @@ struct plantDView: View {
                 }
 //                .padding()//Vs
             }//Zs
-            
-            
-            
-            
-//            VStack{
-                //            Image("")
-                //                .resizable()
-                //                .aspectRatio(contentMode: .fit)
-                //                .onTapGesture {
-                //                    // Show the sheet when the image is tapped
-                //                    isSheetPresented.toggle()
-                //                }
                 
                 Button(action: {
                     // Show the sheet when the button is tapped
@@ -173,7 +161,7 @@ struct plantDView: View {
                     Text("للمزيد من المعلومات")
                         .padding()
                         .foregroundColor(.white)
-                        .background(Color(hex: "446127"))
+                        .background(Color.C1)
                         .cornerRadius(10)
 //                        .padding(.bottom,430)
                         .accessibilityLabel("للمزيد من المعلومات")
@@ -186,7 +174,7 @@ struct plantDView: View {
                 YourSheetView(isSheetPresented: $isSheetPresented)
                     .presentationDetents([.medium])
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
-                    .background(Color(hex: "92A65F"))
+                    .background(Color.C1)
             }
             Spacer()
             Spacer()
@@ -254,8 +242,8 @@ struct plantDView: View {
                     }) {
                         Text("للحصول على التنبيهات")
                             .padding()
-                            .foregroundColor(.white)
-                            .background(Color(hex: "446127"))                               .cornerRadius(10)
+                            .foregroundColor(Color.C1)
+                            .background(Color.C3)                               .cornerRadius(10)
                             .padding(.bottom, 100)
                             .padding()
                             .accessibilityLabel("للحصول على التنبيهات")
@@ -269,22 +257,7 @@ struct plantDView: View {
     }
     
 }
-    extension Color {
-        init(hex: String) {
-            var hexSanitized = hex.trimmingCharacters(in: .whitespacesAndNewlines)
-            hexSanitized = hexSanitized.replacingOccurrences(of: "#", with: "")
 
-            var rgb: UInt64 = 0
-
-            Scanner(string: hexSanitized).scanHexInt64(&rgb)
-
-            let red = Double((rgb & 0xFF0000) >> 16) / 255.0
-            let green = Double((rgb & 0x00FF00) >> 8) / 255.0
-            let blue = Double(rgb & 0x0000FF) / 255.0
-
-            self.init(red: red, green: green, blue: blue)
-        }
-    }
     struct plantDView_Previews: PreviewProvider {
         static var previews: some View {
             plantDView().environment(\.layoutDirection, .rightToLeft)

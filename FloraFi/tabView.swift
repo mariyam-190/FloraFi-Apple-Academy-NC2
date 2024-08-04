@@ -24,14 +24,7 @@ struct tabView: View {
                         Label("النباتات", systemImage: "leaf")
                     }
 
-                plantDView()
-                    .tabItem {
-                        Label("التنبيهات", systemImage: "bell")
-                    }
-                CamView()
-                    .tabItem {
-                        Label("الكاميرا", systemImage: "camera.viewfinder")
-                    }
+               
             }
             .accentColor(.C1) // لون العنصر المحدد
         }

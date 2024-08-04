@@ -26,7 +26,7 @@ struct s: View {
           
                     .opacity(opacity)
                     .onAppear{
-                        withAnimation(.easeIn(duration: 3.3)){
+                        withAnimation(.easeIn(duration: 3.0)){
                             self.size = 0.5
                             self.opacity = 1
                         }

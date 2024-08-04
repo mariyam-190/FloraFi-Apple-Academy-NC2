@@ -16,18 +16,20 @@
 		1E585BD82B322CB30085C971 /* tabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BD72B322CB30085C971 /* tabView.swift */; };
 		1E585BDC2B32C44E0085C971 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1E585BDB2B32C44E0085C971 /* Localizable.xcstrings */; };
 		1E585BFC2B3810FB0085C971 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585BFB2B3810FB0085C971 /* Color.swift */; };
-		1E585C012B38171B0085C971 /* SeasonsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C002B38171B0085C971 /* SeasonsModel.swift */; };
-		1E585C032B381BC60085C971 /* SeasonsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C022B381BC60085C971 /* SeasonsViewModel.swift */; };
-		1E585C072B38C19E0085C971 /* PlantViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C062B38C19E0085C971 /* PlantViewModel.swift */; };
-		1E585C092B38C1B10085C971 /* PlantModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E585C082B38C1B10085C971 /* PlantModel.swift */; };
-		D0A9598F2B7F718100305100 /* CamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A9598E2B7F718100305100 /* CamView.swift */; };
-		D0A959912B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D0A959902B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel */; };
 		D0A959932B7F82B500305100 /* plant2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959922B7F82B500305100 /* plant2.swift */; };
 		D0A959952B7F88BB00305100 /* plant3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959942B7F88BB00305100 /* plant3.swift */; };
 		D0A959972B7F8B0500305100 /* plant4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959962B7F8B0500305100 /* plant4.swift */; };
 		D0A959992B7F8CB700305100 /* plant5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A959982B7F8CB600305100 /* plant5.swift */; };
 		D0A9599B2B7F8E5A00305100 /* plant6.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A9599A2B7F8E5A00305100 /* plant6.swift */; };
-		EAA12A3E2B5C77C10066D911 /* plantDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA12A3D2B5C77C10066D911 /* plantDView.swift */; };
+		EA39FDA12B802B5500AAF32B /* plant9.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA39FDA02B802B5500AAF32B /* plant9.swift */; };
+		EA9EFA5B2B7FD9F100B6622E /* winter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EFA5A2B7FD9F100B6622E /* winter.swift */; };
+		EA9EFA5D2B7FDA0100B6622E /* summer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EFA5C2B7FDA0100B6622E /* summer.swift */; };
+		EA9EFA5F2B7FDA1200B6622E /* allYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9EFA5E2B7FDA1200B6622E /* allYear.swift */; };
+		EAFFF5B12B80E59C000EF7AA /* plant1.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFFF5B02B80E59C000EF7AA /* plant1.swift */; };
+		EAFFF5B32B80FC35000EF7AA /* plant7.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFFF5B22B80FC35000EF7AA /* plant7.swift */; };
+		EAFFF5B52B80FEB6000EF7AA /* plant8.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFFF5B42B80FEB6000EF7AA /* plant8.swift */; };
+		EAFFF5B72B80FEEC000EF7AA /* plant10.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFFF5B62B80FEEC000EF7AA /* plant10.swift */; };
+		EAFFF5B92B811005000EF7AA /* plant11.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAFFF5B82B811005000EF7AA /* plant11.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,18 +43,20 @@
 		1E585BD72B322CB30085C971 /* tabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabView.swift; sourceTree = "<group>"; };
 		1E585BDB2B32C44E0085C971 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		1E585BFB2B3810FB0085C971 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
-		1E585C002B38171B0085C971 /* SeasonsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonsModel.swift; sourceTree = "<group>"; };
-		1E585C022B381BC60085C971 /* SeasonsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonsViewModel.swift; sourceTree = "<group>"; };
-		1E585C062B38C19E0085C971 /* PlantViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantViewModel.swift; sourceTree = "<group>"; };
-		1E585C082B38C1B10085C971 /* PlantModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantModel.swift; sourceTree = "<group>"; };
-		D0A9598E2B7F718100305100 /* CamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamView.swift; sourceTree = "<group>"; };
-		D0A959902B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "MyImageClassifier plan 1.mlmodel"; path = "../../../Documents/MyImageClassifier plan 1.mlmodel"; sourceTree = "<group>"; };
 		D0A959922B7F82B500305100 /* plant2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant2.swift; sourceTree = "<group>"; };
 		D0A959942B7F88BB00305100 /* plant3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant3.swift; sourceTree = "<group>"; };
 		D0A959962B7F8B0500305100 /* plant4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant4.swift; sourceTree = "<group>"; };
 		D0A959982B7F8CB600305100 /* plant5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant5.swift; sourceTree = "<group>"; };
 		D0A9599A2B7F8E5A00305100 /* plant6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant6.swift; sourceTree = "<group>"; };
-		EAA12A3D2B5C77C10066D911 /* plantDView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plantDView.swift; sourceTree = "<group>"; };
+		EA39FDA02B802B5500AAF32B /* plant9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant9.swift; sourceTree = "<group>"; };
+		EA9EFA5A2B7FD9F100B6622E /* winter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = winter.swift; sourceTree = "<group>"; };
+		EA9EFA5C2B7FDA0100B6622E /* summer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = summer.swift; sourceTree = "<group>"; };
+		EA9EFA5E2B7FDA1200B6622E /* allYear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = allYear.swift; sourceTree = "<group>"; };
+		EAFFF5B02B80E59C000EF7AA /* plant1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant1.swift; sourceTree = "<group>"; };
+		EAFFF5B22B80FC35000EF7AA /* plant7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant7.swift; sourceTree = "<group>"; };
+		EAFFF5B42B80FEB6000EF7AA /* plant8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant8.swift; sourceTree = "<group>"; };
+		EAFFF5B62B80FEEC000EF7AA /* plant10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant10.swift; sourceTree = "<group>"; };
+		EAFFF5B82B811005000EF7AA /* plant11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plant11.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,10 +89,7 @@
 		1E585BC22B3227BE0085C971 /* FloraFi */ = {
 			isa = PBXGroup;
 			children = (
-				D0A959902B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel */,
 				1E585BFF2B3816FC0085C971 /* View */,
-				1E585BFE2B3816F40085C971 /* ViewModel */,
-				1E585BFD2B3816ED0085C971 /* Model */,
 				1E585BC32B3227BE0085C971 /* FloraFiApp.swift */,
 				1E585BC52B3227BE0085C971 /* SplashScreen.swift */,
 				1E585BD72B322CB30085C971 /* tabView.swift */,
@@ -108,36 +109,25 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		1E585BFD2B3816ED0085C971 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				1E585C002B38171B0085C971 /* SeasonsModel.swift */,
-				1E585C082B38C1B10085C971 /* PlantModel.swift */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		1E585BFE2B3816F40085C971 /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-				1E585C022B381BC60085C971 /* SeasonsViewModel.swift */,
-				1E585C062B38C19E0085C971 /* PlantViewModel.swift */,
-			);
-			path = ViewModel;
-			sourceTree = "<group>";
-		};
 		1E585BFF2B3816FC0085C971 /* View */ = {
 			isa = PBXGroup;
 			children = (
 				1E585BD12B32287D0085C971 /* SeasonsView.swift */,
 				1E585BD32B32288D0085C971 /* HomeView.swift */,
-				EAA12A3D2B5C77C10066D911 /* plantDView.swift */,
+				EAFFF5B02B80E59C000EF7AA /* plant1.swift */,
 				D0A959922B7F82B500305100 /* plant2.swift */,
 				D0A959942B7F88BB00305100 /* plant3.swift */,
 				D0A959962B7F8B0500305100 /* plant4.swift */,
 				D0A959982B7F8CB600305100 /* plant5.swift */,
 				D0A9599A2B7F8E5A00305100 /* plant6.swift */,
-				D0A9598E2B7F718100305100 /* CamView.swift */,
+				EAFFF5B22B80FC35000EF7AA /* plant7.swift */,
+				EAFFF5B42B80FEB6000EF7AA /* plant8.swift */,
+				EA39FDA02B802B5500AAF32B /* plant9.swift */,
+				EAFFF5B62B80FEEC000EF7AA /* plant10.swift */,
+				EAFFF5B82B811005000EF7AA /* plant11.swift */,
+				EA9EFA5C2B7FDA0100B6622E /* summer.swift */,
+				EA9EFA5A2B7FD9F100B6622E /* winter.swift */,
+				EA9EFA5E2B7FDA1200B6622E /* allYear.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -216,22 +206,24 @@
 			files = (
 				D0A959932B7F82B500305100 /* plant2.swift in Sources */,
 				1E585BC62B3227BE0085C971 /* SplashScreen.swift in Sources */,
-				EAA12A3E2B5C77C10066D911 /* plantDView.swift in Sources */,
+				EA9EFA5F2B7FDA1200B6622E /* allYear.swift in Sources */,
 				D0A959992B7F8CB700305100 /* plant5.swift in Sources */,
 				1E585BD22B32287D0085C971 /* SeasonsView.swift in Sources */,
-				1E585C032B381BC60085C971 /* SeasonsViewModel.swift in Sources */,
+				EAFFF5B92B811005000EF7AA /* plant11.swift in Sources */,
+				EAFFF5B52B80FEB6000EF7AA /* plant8.swift in Sources */,
 				D0A9599B2B7F8E5A00305100 /* plant6.swift in Sources */,
-				D0A9598F2B7F718100305100 /* CamView.swift in Sources */,
 				D0A959952B7F88BB00305100 /* plant3.swift in Sources */,
-				D0A959912B7F7E0300305100 /* MyImageClassifier plan 1.mlmodel in Sources */,
-				1E585C012B38171B0085C971 /* SeasonsModel.swift in Sources */,
+				EAFFF5B32B80FC35000EF7AA /* plant7.swift in Sources */,
+				EAFFF5B12B80E59C000EF7AA /* plant1.swift in Sources */,
 				1E585BFC2B3810FB0085C971 /* Color.swift in Sources */,
+				EA39FDA12B802B5500AAF32B /* plant9.swift in Sources */,
 				D0A959972B7F8B0500305100 /* plant4.swift in Sources */,
-				1E585C092B38C1B10085C971 /* PlantModel.swift in Sources */,
+				EA9EFA5D2B7FDA0100B6622E /* summer.swift in Sources */,
 				1E585BC42B3227BE0085C971 /* FloraFiApp.swift in Sources */,
 				1E585BD42B32288D0085C971 /* HomeView.swift in Sources */,
-				1E585C072B38C19E0085C971 /* PlantViewModel.swift in Sources */,
+				EA9EFA5B2B7FD9F100B6622E /* winter.swift in Sources */,
 				1E585BD82B322CB30085C971 /* tabView.swift in Sources */,
+				EAFFF5B72B80FEEC000EF7AA /* plant10.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,27 +356,36 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FloraFi/Preview Content\"";
-				DEVELOPMENT_TEAM = D52286Z8X4;
+				DEVELOPMENT_TEAM = 4439LQD9YY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FloraFi;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = twq.FloraFi;
+				PRODUCT_BUNDLE_IDENTIFIER = FloraFi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -393,27 +394,36 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FloraFi/Preview Content\"";
-				DEVELOPMENT_TEAM = D52286Z8X4;
+				DEVELOPMENT_TEAM = 4439LQD9YY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FloraFi;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = twq.FloraFi;
+				PRODUCT_BUNDLE_IDENTIFIER = florafi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

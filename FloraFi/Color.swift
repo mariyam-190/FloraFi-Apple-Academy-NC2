@@ -13,6 +13,7 @@ extension Color{
     
     public static let C2: Color = Color(UIColor(red:255/255, green:255/255, blue:255/255, alpha: 100))
     
-    public static let C3: Color = Color(UIColor(red:220/255, green:222/255, blue:157/255, alpha: 100))
+//    public static let C3: Color = Color(UIColor(red:220/255, green:222/255, blue:157/255, alpha: 100))
+    public static let C3: Color = Color(UIColor(red:203/255, green:214/255, blue:147/255, alpha: 100))
     
 }
